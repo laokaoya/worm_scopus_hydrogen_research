@@ -1,2 +1,2 @@
 # worm_scopus_hydrogen_research
-搜集直径各种技术路线的论文和成本数据
+搜集制氢各种技术路线的论文和成本数据
